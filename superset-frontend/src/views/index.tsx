@@ -20,5 +20,5 @@ import 'src/public-path';
 
 import ReactDOM from 'react-dom';
 import App from './App';
-
+console.log('aaaaaaaaaaaaaaaaaa');
 ReactDOM.render(<App />, document.getElementById('app'));
