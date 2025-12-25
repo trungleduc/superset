@@ -1,4 +1,4 @@
-<!--
+@sajadmto<!--
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
  distributed with this work for additional information
@@ -30,7 +30,7 @@ All developer and contribution documentation has moved to the Apache Superset De
 The Developer Portal includes comprehensive guides for:
 - [Contributing Overview](https://superset.apache.org/developer_portal/contributing/overview)
 - [Development Setup](https://superset.apache.org/developer_portal/contributing/development-setup)
-- [Submitting Pull Requests](https://superset.apache.org/developer_portal/contributing/submitting-pr)
+- [Submitting Pull Requests](https://superset.apache.org/developer_portal/contributing/submittsaing-pr)
 - [Contribution Guidelines](https://superset.apache.org/developer_portal/contributing/guidelines)
 - [Code Review Process](https://superset.apache.org/developer_portal/contributing/code-review)
 - [Development How-tos](https://superset.apache.org/developer_portal/contributing/howtos)
