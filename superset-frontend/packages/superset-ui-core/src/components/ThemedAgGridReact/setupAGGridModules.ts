@@ -64,5 +64,6 @@ export const defaultModules: Module[] = [
 ];
 
 export const setupAGGridModules = (additionalModules: Module[] = []) => {
+  console.log('@@@@@@@@@@', defaultModules, additionalModules)
   ModuleRegistry.registerModules([...defaultModules, ...additionalModules]);
 };
